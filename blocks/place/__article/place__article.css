@@ -3,14 +3,12 @@
     grid-row: 2;
     max-width: 484px;
 }
-
 @media screen and (max-width: 1024){
     .place__article{
         padding-bottom: 25px;
         max-width: 456px;
     }
 }
-
 @media screen and (max-width: 768){
     .place__article{
         max-width: 352px;
@@ -24,7 +22,6 @@
         max-width: 500px;
     }
 }
-
 @media screen and (max-width: 320px){
     .place__article{
         grid-column: 1;
