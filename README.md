@@ -11,4 +11,4 @@ __Лебедев Денис__
 * применение JS
 * улучшение адаптивности сайта 
 
-*ссылка на работу* https://github.com/lebedevdr/russian-travel
+[ссылка на работу](https://lebedevdr.github.io/russian-travel/) 
